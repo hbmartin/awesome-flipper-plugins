@@ -1,5 +1,7 @@
 # Awesome Flipper Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img src="header.jpg" width="200"/>
+
 > A curated list of great Flipper plugins
 
 
