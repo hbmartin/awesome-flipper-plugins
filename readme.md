@@ -27,6 +27,7 @@
 - [Async Storage Plugin](https://github.com/Fausto95/rn-async-storage-flipper) - React Native's Async Storage logger for Flipper.
 - [Bridge Spy Plugin](https://github.com/sylvanaar/flipper-plugin-bridgespy) - React Native bridge spy Flipper plugin.
 - [MobX Log Plugin](https://github.com/khorark/mobx-flipper) - Allows you read React Native MobX logs inside Flipper including action and state comparison.
+- [React Native Database Plugin](https://github.com/panz3r/react-native-flipper-databases) - This React Native plugin allows browsing popular React Native databases using Flipper built-in Databases plugin.
 - [React Native Logging Plugin](https://github.com/imranMnts/flipper-plugin-react-native-logging-tools) - A flipper plugin to display all events sent to different service via react-native-logging-tools.
 - [React Native Performance Plugin](https://github.com/oblador/react-native-performance) - Monitor and measure React Native performance.
 - [React Native Performance Monitor for Android Plugin](https://github.com/bamlab/react-native-performance) - Monitor FPS rendering on Android.
