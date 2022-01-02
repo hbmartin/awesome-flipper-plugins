@@ -2,7 +2,7 @@
 
 <img src="header.jpg" width="200"/>
 
-> A curated list of great Flipper plugins
+> A curated list of great [Flipper](https://github.com/facebook/flipper) plugins
 
 
 ## Contents
